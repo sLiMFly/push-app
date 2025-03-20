@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "6397c97f-403e-4c3c-9266-62c0aa9e3192"
+      }
+    },
+    "owner": "slimfly"
   }
 }
