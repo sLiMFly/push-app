@@ -36,3 +36,5 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+expo-push-notification-37466-firebase-adminsdk-fbsvc-3257f3f33b.json
+google-services.json
